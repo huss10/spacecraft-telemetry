@@ -29,4 +29,5 @@ A fault-tolerant telemetry and command system for a simulated spacecraft.
 │  • Event log                        │
 └─────────────────────────────────────┘
 ```
+<img width="1502" height="777" alt="Screenshot 2026-05-30 at 12 28 26 PM" src="https://github.com/user-attachments/assets/2db575f8-fcce-413f-9db3-b7a3ffd8792e" />
 
